@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJMenu'
-  s.version          = '0.1.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of LJMenu.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jianli2017' => 'lijian-ds1@gomeplus.com' }
-  s.source           = { :git => 'https://github.com/jianli2017/LJMenu.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jianli2017/LJMenu.git', :tag => 'v1.0.2'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
